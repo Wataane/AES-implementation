@@ -9,5 +9,8 @@ The project includes an interactive GUI to make it easy for users to input text,
 
 Technologies Used:\
 Python: The primary programming language for the project.
+\
 Tkinter: A Python library used for building the graphical user interface.
+\
 PyCryptodome: A Python library providing cryptographic functions, including AES and DES.
+\
