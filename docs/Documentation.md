@@ -18,6 +18,8 @@ Decryption: To decrypt DES-encrypted data, the same key and IV used for encrypti
 ___________________________________
 \
 \
+# How I implemented it:
+\
 AES and DES Encryption (encryption.py):\
 The function aes_encrypt takes plaintext and a randomly generated 16-byte key. It encrypts the text in CBC mode, using a unique initialization vector (IV) for each operation. The IV is combined with the ciphertext so it can be reused during decryption.\
 \
