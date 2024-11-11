@@ -18,7 +18,7 @@ Tkinter: A Python library used for building the graphical user interface.
 PyCryptodome: A Python library providing cryptographic functions, including AES and DES.
 \
 _______________________________
-\
+
 
 # How to Use:
 \
